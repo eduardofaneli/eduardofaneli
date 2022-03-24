@@ -1,8 +1,6 @@
 ### Oi, me chamo Eduardo Faneli
 
 - 🔭 Trabalho com back-end
-- 🌱 Estudando CSharp
-- 😄 Pronouns: ele
 
 <div align="center">
   <a href="https://github.com/eduardofaneli">
