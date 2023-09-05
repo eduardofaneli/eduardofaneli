@@ -1,6 +1,6 @@
 ### Oi, me chamo Eduardo Faneli
 
-- 🔭 Trabalho com back-end
+- 🔭 Software Engineer
 
 <div align="center">
   <a href="https://github.com/eduardofaneli">
